@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="Doro mi DoSlI"/>
+    <HelloWorld msg="Doro mi DosliI"/>
   </div>
 </template>
 
